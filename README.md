@@ -11,10 +11,11 @@ This repository contains a script to configure a Windows 11 computer to be compl
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Additional Resources](#additional-resources)
 
 ## Introduction
 
-TThis script provides a convenient way to configure a Windows 11 computer to be compliant with the Cyber Essentials Plus standards. It automates a series of recommended configurations to enhance the security posture of the system and align it with the requirements of Cyber Essentials Plus.
+This script provides a convenient way to configure a Windows 11 computer to be compliant with the Cyber Essentials Plus standards. It automates a series of recommended configurations to enhance the security posture of the system and align it with the requirements of Cyber Essentials Plus.
 
 The script applies various security settings, such as disabling automatic updates, enabling Windows Firewall, disabling unnecessary services and protocols, configuring password complexity, enabling encryption, and more. Each step includes an explanation and confirmation prompt to ensure that the changes align with your specific requirements.
 
@@ -68,7 +69,9 @@ Please note that it is highly recommended to review and modify the script accord
 
 4. **Modify as Needed**: The script provides general configurations, but you may need to modify certain settings to fit your organization's specific needs. Adjust the script accordingly, ensuring the changes align with your security policies and compliance requirements.
 
-5. **Test in a Controlled Environment**: Before applying the script to production systems, it's highly recommended to test the configurations in a controlled environment. This allows you to evaluate their impact and ensure compatibility with your existing infrastructure.
+5. **Test in a Controlled Environment**: Before applying the script
+
+ to production systems, it's highly recommended to test the configurations in a controlled environment. This allows you to evaluate their impact and ensure compatibility with your existing infrastructure.
 
 **IMPORTANT**: Change the credentials for the administrator account (AdminAccount) by modifying the script before running it.
 
@@ -78,28 +81,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 Please ensure your contributions align with the script's goals of enhancing Cyber Essentials Plus compliance and improving the security posture of Windows 11 computers.
 
-
-1. Fork the repository.
-
-2. Create your feature branch:
-
-```
-git checkout -b feature/new-feature
-```
-
-3. Commit your changes:
-
-```
-git commit -m "Add new feature"
-```
-
-4. Push to the branch:
-
-```
-git push origin feature/new-feature
-```
-
-5. Open a pull request.
+Please read the [Contribution Guidelines](CONTRIBUTING.md) for more information on how to contribute to this project.
 
 ## License
 
@@ -108,3 +90,12 @@ This script is licensed under the [MIT License](LICENSE). Feel free to use, modi
 ## Credits
 
 This script is authored and maintained by [HairyDuck](https://github.com/HairyDuck/).
+
+## Additional Resources
+
+- [Cyber Essentials Plus Overview](cyber-essentials-plus-overview.md): An overview of the Cyber Essentials Plus standards and their requirements.
+- [Cyber Essentials Plus Implementation Guide](cyber-essentials-plus-implementation-guide.md): A comprehensive guide for implementing Cyber Essentials Plus compliance on Windows 11 computers.
+
+---
+
+Thank you for using the Cyber Essentials Plus Compliance Script! We hope it helps you in achieving and maintaining a secure and compliant Windows 11 environment. If you have any questions or encounter any issues, please don't hesitate to reach out. Happy securing!
