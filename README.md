@@ -85,9 +85,7 @@ Author: [HairyDuck](https://github.com/HairyDuck/)
 - Enables strong password policy
 - Enables Windows Defender Firewall domain profile
 - Disables NetBIOS over TCP/IP
-- Enables Microsoft Enhanced
-
- Mitigation Experience Toolkit (EMET) features (if installed)
+- Enables Microsoft Enhanced Mitigation Experience Toolkit (EMET) features (if installed)
 - Configures Windows Update
 - Enables AppLocker (configure as per your organization's requirements)
 - Disables guest accounts
