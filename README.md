@@ -91,6 +91,19 @@ This script is licensed under the [MIT License](LICENSE). Feel free to use, modi
 
 This script is authored and maintained by [HairyDuck](https://github.com/HairyDuck/).
 
+# Disclaimer
+
+**Please note that the Cyber Essentials Plus Compliance Script provided in this repository is intended as a starting point and a convenience tool for implementing recommended security configurations. However, it is your responsibility to review and modify the script to meet the specific requirements and security policies of your organization.**
+
+While efforts have been made to ensure the accuracy and effectiveness of the script, it is always recommended to test the configurations in a controlled environment before deploying them to production systems. The authors and contributors of this script are not liable for any damages or consequences arising from the use or misuse of the script.
+
+Before applying the script or making any changes to your system, it is highly recommended to consult with a qualified cybersecurity professional or IT expert who can assess the suitability of the configurations for your specific environment.
+
+Use the Cyber Essentials Plus Compliance Script at your own risk, and remember that security is an ongoing process that requires regular monitoring, updates, and adherence to best practices.
+
+By using the script, you acknowledge and accept the terms of this disclaimer.
+
+
 ## Additional Resources
 
 - [Cyber Essentials Plus Overview](cyber-essentials-plus-overview.md): An overview of the Cyber Essentials Plus standards and their requirements.
